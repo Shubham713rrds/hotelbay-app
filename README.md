@@ -1,4 +1,4 @@
-# airbnb-Clone
+# hotelbay-app
 
 ➢  Developed a fully functional hotel booking app with all the core features
 
